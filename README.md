@@ -2,6 +2,7 @@
 
 🌟 I’m a passionate data science student and aspiring developer.  
 📚 Learning Python, Data Analysis, and Git. 
+
 🧠 Exploring machine learning and data storytelling  
 
 ---

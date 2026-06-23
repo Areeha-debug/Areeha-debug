@@ -23,7 +23,7 @@
 
 ## 🌱 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/areeha-a-b64709406/](https://www.linkedin.com/in/areeha-a-b64709406/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/areeha-a-b64709406/])
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:adilareeha@gmail.com)
 
 <!--

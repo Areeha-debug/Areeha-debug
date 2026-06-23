@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Areeha Adil
 
 🌟 I’m a passionate data science student and aspiring developer.  
-💡 Currently working on: *COVID-19 Global Impact Analysis Dashboard*  
-📚 Learning Python, Data Analysis, Git, and Web Development  
+📚 Learning Python, Data Analysis, and Git 
 🧠 Exploring machine learning and data storytelling  
 
 ---

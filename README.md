@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Areeha Adil
 
 🌟 I’m a passionate data science student and aspiring developer.  
-📚 Learning Python, Data Analysis, and Git 
+📚 Learning Python, Data Analysis, and Git. 
 🧠 Exploring machine learning and data storytelling  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 🌱 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/](https://www.linkedin.com/in/areeha-adil-808581254/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/](https://www.linkedin.com/in/areeha-a-b64709406/))
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:adilareeha@gmail.com)
 
 <!--
